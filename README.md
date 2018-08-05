@@ -7,7 +7,7 @@ C++ pathfinder I made for a test, using A* design pattern, manhattan heuristic a
 ## Constrains : 
 
 
-* The pathfinder work in a square grid context with no diagonal moves allowed
+* The pathfinder work in a grid context with no diagonal moves allowed
 * Fixed movement cost (1)
 
 
